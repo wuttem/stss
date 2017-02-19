@@ -1,0 +1,3 @@
+enum34
+boto3
+redis
